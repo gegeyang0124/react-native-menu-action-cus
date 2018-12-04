@@ -11,7 +11,13 @@
     "url": "git+https://github.com/gegeyang0124/react-native-menu-action-cus.git"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-component",
+    "action sheet",
+    "menu",
+    "react-native-menu-action-cus",
+    "react-native-menu",
+    "菜单"
   ],
   "author": {
     "name": "周阳",

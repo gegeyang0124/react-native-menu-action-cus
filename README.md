@@ -1,6 +1,6 @@
 # react-native-menu-action-cus
 自定义弹出菜单（或页面）组件；
-本组件是基于![react-native-custom-action-sheet](https://github.com/eyaleizenberg/react-native-custom-action-sheet)
+本组件是基于[react-native-custom-action-sheet](https://github.com/eyaleizenberg/react-native-custom-action-sheet)
 进行修改和升级的
 
 ###  安装组件：
