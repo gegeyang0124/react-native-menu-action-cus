@@ -7,7 +7,7 @@
 npm i --save react-native-lib-cus-com
 
 <p align="center">
-    <img src ="http://i.imgur.com/Iq6YZGj.gif" />
+    <img src ="./showImg/showMenu.gif" />
 </p>
 
 
