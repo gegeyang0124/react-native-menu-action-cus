@@ -4,7 +4,7 @@
 进行修改和升级的
 
 ###  安装组件：
-npm i --save react-native-lib-cus-com
+npm i --save react-native-menu-action-cus
 
 <p align="center">
     <img src ="./showImg/showMenu.gif" />
